@@ -1,0 +1,9 @@
+com\portfolioBackEnd\Login\model\Usuario.class
+com\portfolioBackEnd\Login\repository\UsuarioRepository.class
+com\portfolioBackEnd\Login\service\UsuarioService.class
+com\portfolioBackEnd\Login\WebConfig.class
+com\portfolioBackEnd\Login\LoginApplication.class
+com\portfolioBackEnd\Login\model\UsuarioDTO.class
+com\portfolioBackEnd\Login\controller\UsuarioController.class
+com\portfolioBackEnd\Login\security\JwtAuthenticationResponse.class
+com\portfolioBackEnd\Login\security\JwtTokenProvider.class
